@@ -6,20 +6,8 @@
 欢迎访问SkyCloud帮助页面
 ==================================================
 
-Contents:
+目录：
 
 .. toctree::
    :maxdepth: 2
    :glob:
-
-   *
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
