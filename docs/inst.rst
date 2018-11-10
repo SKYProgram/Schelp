@@ -4,12 +4,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-欢迎访问SkyCloud帮助页面2
+基本操作
 ==================================================
 
-目录：
-
-.. toctree::
-   as
-   :maxdepth: 2
-   :glob:
+登录
+--------------------------------------------------
+   通过访问cloud.skyprogram.info:8000，可以进行登陆。
+   
+   用户会被重定向到登录页面，输入账号（电子邮件）以及密码即可进行登录。
+   
+   如果选择了“7天内保持登录”，我们将以cookie的形式标记一台计算机为：
+   
+   Logged <username>
+   >>>>>>>>>
