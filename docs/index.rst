@@ -9,6 +9,6 @@
 目录：
 
 .. toctree::
-   :LEL
+   as
    :maxdepth: 2
    :glob:
