@@ -8,7 +8,7 @@
 
 目录：
 
-   基本操作
+   基本操作 https://mikewu597-demo.readthedocs.io/zh_CN/latest/inst.html
    
    上传下载
    
